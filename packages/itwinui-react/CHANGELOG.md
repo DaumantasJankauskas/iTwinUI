@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.0.0-dev.11
+
+### Major Changes
+
+- [#1583](https://github.com/iTwin/iTwinUI/pull/1583): Bumped minimum react version to 17. If you're still on react 16, please update to react 17 (which has no breaking changes).
+- [#1565](https://github.com/iTwin/iTwinUI/pull/1565): Removed `Menu` component. Use `DropdownMenu` instead.
+
 ## 3.0.0-dev.10
 
 ### Major Changes
